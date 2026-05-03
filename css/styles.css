@@ -1,24 +1,4 @@
 /* 
-   Fonts 
-*/
-
-@font-face {
-  font-family: "Golos Text";
-  font-weight: 400 600;
-  font-style: normal;
-  src: url("../assets/fonts/GolosText-VariableFont_wght.woff2") format("woff2");
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Merriweather";
-  font-weight: 400 700;
-  font-style: normal;
-  src: url("../assets/fonts/Merriweather-VariableFont.woff2") format("woff2");
-  font-display: swap;
-}
-
-/* 
    Variables
 */
 
